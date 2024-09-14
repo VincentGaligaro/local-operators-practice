@@ -1,6 +1,6 @@
 // Define your favorite numbers
-const firstFavNumb = 7;  // Replace with your favorite number
-const secondFavNumb = 10; // Replace with your second favorite number
+const firstFavNumb = 7;  // 
+const secondFavNumb = 10; // 
 
 // Perform and log various comparisons
 
